@@ -1,9 +1,0 @@
-1)Dml
-2)Ddl
-
-3)dcl
-4)joins
-5)projections
-6)normalization
-7)schema architecture
-8)type of users
