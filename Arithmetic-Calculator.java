@@ -1,4 +1,4 @@
-package calculator;
+package calculator;//creating an airthmetic calculator
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ public class calculators {
 		double result=0.0;
 		
 		Scanner sc= new Scanner(System.in);
-		System.out.println("Choose a operation:1+, 2-, 3* 4/, 5%, 6^ "  );
+		System.out.println("Choose a operation:1+, 2-, 3* 4/, 5%, 6^ "  );//a total of six operation can be done
 		operation=sc.next().charAt(0);
 		
 		System.out.print("Enter the  first number");
@@ -60,7 +60,7 @@ public class calculators {
 		
 		
 		
-		// TODO Auto-generated method stub
+
 
 	}
 
